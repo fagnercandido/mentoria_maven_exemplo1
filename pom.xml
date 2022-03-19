@@ -14,7 +14,7 @@
 	<name>exemplo1</name>
 	<description>Exemplo 1</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>14</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
